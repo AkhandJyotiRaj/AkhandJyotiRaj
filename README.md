@@ -15,7 +15,7 @@ Hii 👋 I'm Rahul Kumar. with cute smile
 ---
 [![](https://visitcount.itsvg.in/api?id=AkhandJyotiRAj&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) ## Byy Have a good Day 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --!> ## Byy Have a good Day 👋
 
 <!--
 **AkhandJyotiRaj/AkhandJyotiRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
