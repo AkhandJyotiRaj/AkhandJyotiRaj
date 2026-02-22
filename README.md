@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii 👋 I'm Rahul Kumar. with cute smile
+Hii 👋 I'm Rahul Kumar.
 
 
 ## 🌐 Socials:
